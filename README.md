@@ -1,16 +1,13 @@
 # proddesc_ui
 
-A new Flutter project.
+Product Description screen from the furniture UI set.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5613750-Furniture-app/attachments/1213432
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/Z-9VpHO1YZQ
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20181210-223642](https://user-images.githubusercontent.com/8137504/49748705-71f1cc80-fccc-11e8-8f95-e411a2296884.png)
+
